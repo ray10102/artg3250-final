@@ -1,1 +1,8 @@
-"# artg3250-final" 
+# How fast does global temperature change?
+This project was created by Raymond Huang for ARTG 3250: Physical Computing at Northeastern University. 
+## Designer's statement
+This project is a prototype of DC motor controlled mechanical devices that mimic the actions of finger and pen tapping. The initial context of these devices were in an audio-visual sculpture piece creating percussive rhythms through commonplace actions. The goal of this prototype was to explore the ways the fingers could be motor controlled and whether it would be possible to author and control the beats each hand could make. In this respect, this prototype is successful. Through iteration on the mechanical design, I have greatly simplified and specialized each hand for its particular actions, rather than being generalized for a variety of gestures, as the first iteration of this project's hands were (see video). This prototype has also demonstrated the limitations of the mechanism I've designed, as well as the other flaws in the implementation's aesthetic qualities, especially concerning the explosed and distracting underlying parts. In a larger sculpture with many moving hands, finding a way to discretely hide the wheels would be an important task. This also may also make the design more suited to application as a metronome, adding a bit of whimsy to a traditionally straightforward device. I was unfortunately not able to build a version of the finger tapping hand which could adapt to tempo based adjustments, but with more materials and access to more precise wood-cutting tools a second iteration of the hands themselves could have created a more reliable mechanism for detecting full rotations. Additional observation could be done to calculate the relationship between motor speed and tempo as well.
+## Circuit diagram
+![Circuit diagram](/images/Circuit_Diagram.png)
+## Demo Video
+![Demo video](/videos/DemoVideo.mp4)

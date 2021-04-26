@@ -1,16 +1,3 @@
-/*
-  SparkFun Inventor’s Kit
-  Circuit 5A - Motor Basics
-
-  Learn how to control one motor with the motor driver.
-
-  This sketch was written by SparkFun Electronics, with lots of help from the Arduino community.
-  This code is completely free for any use.
-
-  View circuit diagram and instructions at: https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v41
-  Download drawings and code at: https://github.com/sparkfun/SIK-Guide-Code
-*/
-
 //PIN VARIABLES
 //the motor will be controlled by the motor A pins on the motor driver
 const int AIN1 = 13;           //control pin 1 on the motor driver for the right motor
